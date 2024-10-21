@@ -1,0 +1,1 @@
+This project analyzes sales data during the Diwali festival to identify trends, patterns, and insights that can help businesses optimize their marketing strategies and improve sales performance during this critical shopping season.
